@@ -37,13 +37,13 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 ## 📊 Exploratory Data Analysis
 
 ### Dataset Visualization
-![Dataset Plot](diabetes_dataset Plot.png)
+![Dataset Plot](diabetes_dataset_Plot.png)
 
 ### Outcome Distribution
-![Outcome Distribution](Distribution of diabetes outcomes.png)
+![Outcome Distribution](Distribution_of_diabetes_outcomes.png)
 
 ### Feature Correlation Heatmap
-![Correlation Heatmap](Feature Correlation Heatmap.png)
+![Correlation Heatmap](Feature_Correlation_Heatmap.png)
 
 ---
 
