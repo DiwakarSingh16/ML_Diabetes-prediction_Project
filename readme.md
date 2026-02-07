@@ -7,6 +7,16 @@ This project predicts the likelihood of diabetes using Machine Learning algorith
 ## 📌 Project Overview
 The model predicts whether a patient is diabetic based on medical diagnostic features such as glucose level, BMI, insulin level, and age. The trained model achieves reliable performance and generates multiple prediction outputs for analysis.
 
+
+---
+
+## 🔄 Project Workflow
+
+The following diagram shows the complete pipeline of the diabetes prediction system.
+
+![Workflow Diagram](workflow.png)
+
+
 ---
 
 ## 💻 Technologies Used
