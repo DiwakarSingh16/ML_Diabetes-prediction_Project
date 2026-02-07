@@ -14,7 +14,7 @@ The model predicts whether a patient is diabetic based on medical diagnostic fea
 
 The following diagram shows the complete pipeline of the diabetes prediction system.
 
-![Workflow Diagram] (workflow.png)
+![Workflow Diagram](Workflow.png)
 
 
 ---
