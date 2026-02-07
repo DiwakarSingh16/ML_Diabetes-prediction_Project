@@ -1,5 +1,5 @@
 # Diabetes Prediction using Machine Learning
-
+![Diabetes Prediction](Diabetes_Prediction.png)
 This project predicts the likelihood of diabetes using Machine Learning algorithms trained on the **PIMA Indians Diabetes Dataset**. The system performs preprocessing, training, evaluation, and generates prediction output images.
 
 ---
